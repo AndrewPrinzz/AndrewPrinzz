@@ -1,5 +1,7 @@
 <div align='center'>
-`Andrew - Software Engineer` 
+
+# Andrew - Software Engineer
+
 </div>
 
 ![banner (1) (1)](https://andrew-dev.com/other/banner.jpg)

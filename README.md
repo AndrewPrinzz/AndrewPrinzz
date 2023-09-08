@@ -12,7 +12,7 @@ I’m Andrew, a Software Engineer. I enjoy building side projects, hitting the g
 
 ## 💼 Skills & Expertise
 
-Accessibility · Html · Css · Sass · Bootstrap · PHP · JavaScript · TypeScript · Material-UI · React · Firebase · Git · Styled-Components · Emotion · Data Structures & Algorithms · · WordPress · Page Builders · Ubuntu · Jira · Notion
+Accessibility · Html · Css · Sass · Bootstrap · PHP · JavaScript · TypeScript · Material-UI · React · Firebase · Git · Styled-Components · Emotion · Data Structures & Algorithms · WordPress · Page Builders · Ubuntu · Jira · Notion
 
 ## 🚀 My Journey in Code
 
